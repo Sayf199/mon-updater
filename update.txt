@@ -1,3 +1,3 @@
-version=1.2.0
-url=https://github.com/Sayf199/mon-updater/releases/download/v1.2.0/Updater.zip
-sha256=075C814082A141863D8CA3C93070594752198A608BB690A331363B690FC1327D
+version=1.2.1
+url=https://github.com/Sayf199/mon-updater/releases/download/v1.2.1/Sn.Tools.zip
+sha256=EE883AC689CB3653ED890993569CC65D424244CEF4B48C33FD425969963B9666

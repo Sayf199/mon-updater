@@ -1,3 +1,3 @@
 version=1.2.4
 url=https://github.com/Sayf199/mon-updater/releases/download/v1.2.4/0x0.zip
-sha256=aebd0b5af30137b12025196a4ba891e248af260a88abc960536cb875284ed30f
+sha256=b5493bf65c75f46a704aa3f4a6d35187a3e65b0fc0550ec80487795e15fc3879
